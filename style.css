@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Grenze+Gotisch:wght@100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+   font-family: "Sour Gummy", serif;
+   background-image: linear-gradient(#eedcb0, #0000);
+}
+
+h1 {
+   text-align: center;
+   border: 2px solid black;
+   font-size: 26px;
+   padding: 20px;
+   background-color: #d8a48f;
+   margin: 20px;
+   margin-left: 60px;
+   margin-right: 60px;
+}
+
+nav{
+   text-align: center;
+   border: 2px solid black;
+   padding: 20px;
+   margin: 20px;
+   margin-left: 150px;
+   margin-right: 150px;
+   background-color: #87bba2;
+}
+
+nav a+a{
+   margin-left: 50px;
+}
+
+nav a{
+   text-decoration: none;
+   color: white;
+}
+
+
+h3{
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+p{
+   text-indent: 15px;
+   line-height: 1.5;
+   margin-left: 200px;
+   margin-right: 200px;
+}
+
+hr{
+   border: 1px #d8a48f solid;
+   margin-left: 150px;
+   margin-right: 150px;
+}
+
+footer{
+   text-align: center;
+}
+
+img{
+   width: 400px;
+   margin: 10px;
+}
+
+nav a:hover{
+   color: aquamarine;
+}
